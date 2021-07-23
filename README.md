@@ -7,3 +7,6 @@
 * Assignment 2: [OpenCV Basics](https://github.com/LS-Computer-Vision/opencv-basics)
   * [Invite Link](https://classroom.github.com/a/cty-WPH1)
   * Deadline: 18 July 11:59 PM
+* Assignment 3a: [Sudoku Solver 1](https://github.com/LS-Computer-Vision/sudoku-solver-1)
+  * [Invite Link](https://classroom.github.com/a/JFqc87gU)
+  * Deadline: 29 July 11:59 PM
