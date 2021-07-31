@@ -10,3 +10,6 @@
 * Assignment 3a: [Sudoku Solver 1](https://github.com/LS-Computer-Vision/sudoku-solver-1)
   * [Invite Link](https://classroom.github.com/a/JFqc87gU)
   * Deadline: 29 July 11:59 PM
+* Assignment 3b: [Sudoku Solver 2](https://github.com/LS-Computer-Vision/sudoku-solver-2)
+  * [Invite Link](https://classroom.github.com/a/PJf0QSGL)
+  * Deadline: 5 Aug 11:59 PM
