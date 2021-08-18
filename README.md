@@ -13,3 +13,6 @@
 * Assignment 3b: [Sudoku Solver 2](https://github.com/LS-Computer-Vision/sudoku-solver-2)
   * [Invite Link](https://classroom.github.com/a/PJf0QSGL)
   * Deadline: 5 Aug 11:59 PM
+* Assignment 4: [Image Stitching](https://github.com/LS-Computer-Vision/image-stitching)
+  * [Invite Link](https://classroom.github.com/a/DpGJCdxG)
+  * Deadline: 22 Aug 11:59 PM
